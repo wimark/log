@@ -1,4 +1,4 @@
-package liblog
+package log
 
 import (
 	"encoding/json"
